@@ -1,0 +1,12 @@
+{
+  "name": "deodar",
+  "version": "0.0.1",
+  "description": "xrender for deodar",
+  "main": "x11win.js",
+  "author": "exebook",
+  "license": "Unlicense",
+  "dependencies": {
+    "elfu": "0.0.x",
+    "dnaof": "exebook/dnaof"
+  }
+}
